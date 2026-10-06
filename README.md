@@ -8,7 +8,7 @@ Loqma is a mobile app that connects businesses with customers by offering surplu
 # 👥 Team Members
 
 - Ghada Elkady-UI&UX Designer
-- Yasmeen-UI&UX Designer
+- Yasmeen Mohamed-UI&UX Designer
 - Heba Salah-UI&UX Designer
 - Aya Taha-UI&UX Designer
 
